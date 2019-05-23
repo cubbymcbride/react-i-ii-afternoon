@@ -1,0 +1,23 @@
+.Previous {
+    background:none;
+    border:none;
+    margin: right;
+    padding-left: 10%;
+    cursor: pointer;
+    float: left;
+    font-weight: bold;
+    font-size: 18px;
+    color:  white
+  }
+
+  .Next{
+    background:none;
+    border:none;
+    margin: right;
+    padding-right: 10%;
+    cursor: pointer;
+    float: right;
+    font-weight: bold;
+    font-size: 18px;
+    color:  white
+  }

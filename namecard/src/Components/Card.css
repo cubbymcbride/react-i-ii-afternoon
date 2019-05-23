@@ -1,0 +1,52 @@
+.text-container {
+    margin:100px 0;
+    height: 350px;
+    width: 600px;
+    background-color: rgba(253, 253, 253, 0.993);
+    display:flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+   }
+   
+   .text-id {
+    margin: 0;
+    margin-left: 90%;
+    font-weight: bold;
+    font-size: 20px;
+   }
+   
+   .name-text {
+    margin: 0;
+    flex-direction: row;
+    margin-right: 65%;
+    font-weight: bold;
+    font-size: 20px;
+   }
+   
+   .people-info {
+    margin: 0;
+    flex-direction: column;
+    margin-right: 60%;
+    font-weight: bold;
+    font-size: 10px;
+   }
+   
+   .Fav-movies {
+    margin: 0;
+    margin-right: 65%;
+    font-weight: bold;
+    font-size: 18px;
+   }
+   
+   .movies {
+    margin: 0;
+    flex-direction: column;
+    margin-right: 23%;
+    font-weight: bold;
+    font-size: 12px;
+   }
+   
+   .text-container > p {
+    color: black;
+   }
